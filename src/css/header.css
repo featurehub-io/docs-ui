@@ -27,6 +27,11 @@ body {
   padding-left: 1rem;
 }
 
+.navbar-brand img {
+  height: 38px;
+  padding-right: 10px;
+}
+
 .navbar-brand .navbar-item:first-child {
   align-self: center;
   padding: 0;

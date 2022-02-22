@@ -13,6 +13,11 @@
   "browserslist": [
     "last 2 versions"
   ],
+  "scripts": {
+    "preview": "gulp preview",
+    "bundle": "gulp bundle",
+    "pack": "gulp bundle:pack"
+  },
   "devDependencies": {
     "@asciidoctor/core": "~2.2",
     "autoprefixer": "~9.7",
